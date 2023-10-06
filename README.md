@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Revanth Chenna</h1>
-<h3 align="center">Full-Stack Developer| Transforming Ideas into Code | Java, Spring, React</h3>
+<h3 align="center">Full-Stack Developer | Transforming Ideas into Code | Java, Spring, React</h3>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0b2l0NGhhY2ZuZGdvajFmamtoZ2Z2bW90cWt1MXhqeHM5cmoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenna1998&label=Profile%20views&color=0e75b6&style=flat" alt="chenna1998" /> </p>
